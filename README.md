@@ -3,6 +3,7 @@ A function component utilizing Segment Anything Model with hugging face to segme
 
 ## Usage
 (For **MacOS** and **Linux** users)
+
 1:
 create virtual environment
 ```
@@ -20,6 +21,7 @@ Install requirements
 ```
 pip install -r requirements.txt
 ```
+
 3:
 Activate Python Interpreter `python`
 ```
