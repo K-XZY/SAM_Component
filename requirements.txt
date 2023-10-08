@@ -1,0 +1,10 @@
+torch
+transformers
+scikit-learn
+scikit-image
+plotly
+numpy
+pandas
+matplotlib
+Pillow
+git+https://github.com/huggingface/transformers.git
