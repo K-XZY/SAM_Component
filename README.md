@@ -28,7 +28,9 @@ Activate Python Interpreter `python`
 from SAM_function import SAM
 ```
 Select an image from your directory `image_url = 'example.jpg'`
-```
-SAM(image_url,save_flag = True)
-```
 
+Run the Segmentation Algorithm.
+```
+Results = SAM(image_url,save_flag = True)
+```
+When `save_flag` set to `True`, all the segments will be stored in a local folder named `saves`.
